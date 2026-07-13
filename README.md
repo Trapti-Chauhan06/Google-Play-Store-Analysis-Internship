@@ -79,4 +79,4 @@ This repository contains my completed internship tasks based on the Google Play 
 ## Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data preparation to building interactive dashboards and extracting actionable insights using Python and Power BI.
-[Open Screenshots Folder](./Screenshots/)
+
