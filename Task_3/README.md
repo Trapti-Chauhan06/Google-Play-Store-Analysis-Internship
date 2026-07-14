@@ -1,4 +1,4 @@
-# Task 3: Interactive DUAL AXIS Power BI Dashboard
+# Task 3: Interactive Power BI Dashboard
 
 ## Objective
 
